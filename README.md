@@ -1,6 +1,5 @@
-# Senior-Project
-The inital plan is to learn how to use machine learning with the game of Starcraft 2. In Starcraft 2 there are three races each with their own units and actions. My plan is to make a bot that can adapt to the other AI opponents tactics and win the match.
-
+# Starcraft 2 Bot
+. In Starcraft 2 there are three races each with their own units and actions. This is a simple bot for the Terran faction that will build a couple of barracks and rush the other side with marines.
 
 ## Setup
 
